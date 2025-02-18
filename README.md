@@ -1,7 +1,7 @@
 # DDPM: Denoising Diffusion Probabilistic Models
 
-Paper: [DDPM](https://arxiv.org/abs/2006.11239)
-My paper where I derive all mathematics: [MyDDPM](https://vilhess.github.io/files/ddpm.pdf)
+- Paper: [DDPM](https://arxiv.org/abs/2006.11239)
+- My paper where I derive all mathematics: [MyDDPM](https://vilhess.github.io/files/ddpm.pdf)
 
 ## Overview
 This repository provides an implementation of a basic U-Net architecture to generate images from the Fashion MNIST dataset using DDPM.
